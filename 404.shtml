@@ -70,14 +70,13 @@
      </div>
    </div><!--/.container-->
     <div class="container">
-
-
-<div><b><br><font face="arial">SONGTABA</font></b><font face="arial"> is an organization committed to the realization of the aspirations and rights of women and children, especially girls, in the north-eastern part of Ghana. The organization was formed in 2005 and has since been working with organisations including NGOs, government agencies and community structures who share a vision of a violence-free and just society where women and girls as well as people with disability and exclusion enjoy their fundamental rights in the Northern region.</font><font face="arial"><br><br><b>VISION</b><br><br>SONGTABA's vision is to see a society free from inequality and injustice in which women and other vulnerable groups enjoy their fundamental rights.<br><br><b>MISSION</b><br><br>The mission of the organization is to work with Gender minded human rights organizations and individuals to&nbsp; advocate for gender equality in the region.<br><br><b>VALUES</b><br><br>Selflessness: ensuring that the interests of all vulnerable groups supersede the interest of staff and partners of the organization.<br><br><b>Punctuality: </b>responding to the hustle and bustle of the organization with all the promptness by all staff and partners, thereby ensuring timely submission of all request, support, reports (financial and narrative) and audit (social or financial) queries.<br><br><b>Integrity: </b>uprightness and probity is the guiding ethics in managing funds given to the organization in a cost effective and efficient manner.<br><br><b>Fairness and Impartiality: </b>ensuring equal distribution of resource (information, land, credit, and participation) is the major trait of staff and all partners of the Coalition.<br><br><b>Honesty and Transparency: </b>being accountable to the vulnerable and our development partners by being open in our dealings is the hallmark of all staff of SONGTABA.<br><br><b>PROGRAMME AREAS</b><br><br><b>&nbsp;&nbsp;&nbsp; </b>Women's Rights<br>&nbsp;&nbsp;&nbsp; Education<br>&nbsp;&nbsp;&nbsp; Food Rights<br>&nbsp;&nbsp;&nbsp; Youth Livelihood Empowerment</font><br></div>
-
+      <h2>Page not Found</h2>
+      <div class="container">
+        We've been making some changes recently; please bear with us. The page you were searching for no longer exists. If you wait just one moment we will redirect you to our <a href="/">homepage</a>.
+      </div>
     </div><!--/container-->
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script>
+      window.setTimeout(function(){ window.location = "/"; },3000)
+    </script>
 </body>
 </html>
